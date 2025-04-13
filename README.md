@@ -6,7 +6,7 @@
 
 ## 🚀 Demo en Vivo
 
-[Ver Landing Page BSYG](https://github.com/gianmattus-programmer/LANDING-PAGE-BSYG)
+[Ver Landing Page BSYG](https://landingpage-bsyg.netlify.app)
 
 ## 📸 Vista Previa
 
